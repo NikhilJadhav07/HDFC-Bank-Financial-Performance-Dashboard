@@ -8,7 +8,7 @@
 
 An interactive, multi-page **Power BI dashboard** that analyses **HDFC Bank's financial performance and banking health over five financial years (FY2020-21 to FY2024-25)**: profitability, business growth, asset quality, efficiency and capital, and cash flow.
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ---
 
